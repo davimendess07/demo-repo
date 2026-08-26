@@ -1,5 +1,20 @@
-Repositório de estudos criado durante o curso "Git and GitHub for Beginners - Crash Course" (freeCodeCamp), 
-cobrindo Git local (add, commit, push), SSH Keys, branching, merge, resolução de conflitos, diff, reset e forking.
+# Demo Repo — Git & GitHub Crash Course
+
+Repositório de estudos criado durante o curso **Git and GitHub for Beginners - Crash Course** (freeCodeCamp).
+
+## O que este repositório cobre
+
+- Git local: `add`, `commit`, `push`
+- SSH Keys
+- Branching e merge
+- Resolução de conflitos
+- `diff`
+- `reset`
+- Forking
+
+## Vídeo de referência
+
+[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 
 # Demo 
